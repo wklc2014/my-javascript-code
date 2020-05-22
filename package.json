@@ -1,0 +1,23 @@
+{
+  "name": "my-javascript-code",
+  "version": "1.0.0",
+  "description": "常用的js代码",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wklc2014/my-javascript-code.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wklc2014/my-javascript-code/issues"
+  },
+  "homepage": "https://github.com/wklc2014/my-javascript-code#readme",
+  "dependencies": {
+    "mocha": "^7.1.2"
+  }
+}
